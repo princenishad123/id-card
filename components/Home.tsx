@@ -17,7 +17,7 @@ const [name,setName] = useState<string | null>(null)
     <main className="min-h-screen bg-slate-50 flex items-center justify-center px-6">
       <div className="max-w-2xl text-center">
         <span className="inline-block px-4 py-1 rounded-full bg-blue-100 text-blue-600 text-sm font-medium">
-          AWS CI/CD Demo
+          AWS CI/CD Demo V2
         </span>
 
         <h1 className="mt-6 text-5xl font-bold text-slate-900">
